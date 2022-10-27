@@ -1,4 +1,4 @@
-"""Lattice Boltzman diffusion simulation in numpy and numba."""
+
 
 # %% imports
 from tqdm import tqdm
